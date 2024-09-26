@@ -41,7 +41,7 @@ nav img{
     height: 50px;
     width: 50px;
     margin-left: 5px;
-    margin-top: 10px;
+    margin-top: 5px;
     
 }
 .header{
@@ -113,7 +113,7 @@ nav ul li a:hover::after{
     color: black;
 }
 .mydiv {
-    /* margin-top: -180px; */
+     margin-top: -20px;
     height: 400px;
     display: flex;
     align-items: center;
